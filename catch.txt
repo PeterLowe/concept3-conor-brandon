@@ -5,7 +5,8 @@ Elavator Pitch
 [CK]Rhythm game, fruit catching 
 Fruit Catch Fun Yay
 30 second  gameplay description
-Fruit is falling from the top of the screen and a player caharacter catches said fruit at the bottom
+[Ck]Fruit is falling from the top of the screen in a rhythmically fashion, and the player has to catch said fruit using the left and right keys
+Fruit is falling from the top of the screen and a player character catches said fruit at the bottom
 Pillars
 Catching fruits, obstacles that change how fruits fall
 Features
