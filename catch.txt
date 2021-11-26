@@ -7,4 +7,4 @@ Fruit is falling from the top of the screen and a player caharacter catches said
 Pillars
 Catching fruits, obstacles that change how fruits fall
 Features
-...
+Jumpy music, satifying sound effects, good visuals
