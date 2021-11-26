@@ -5,6 +5,6 @@ Fruit Catch Fun Yay
 30 second  gameplay description
 Fruit is falling from the top of the screen and a player caharacter catches said fruit at the bottom
 Pillars
-...
+Catching fruits, obstacles that change how fruits fall
 Features
 ...
