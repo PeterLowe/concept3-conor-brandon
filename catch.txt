@@ -2,6 +2,7 @@ Title
 [Ck]Catch the Beat
 [BC]Great Catch Mate
 Elavator Pitch
+[CK]Rhythm game, fruit catching 
 Fruit Catch Fun Yay
 30 second  gameplay description
 Fruit is falling from the top of the screen and a player caharacter catches said fruit at the bottom
