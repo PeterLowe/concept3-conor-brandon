@@ -1,7 +1,12 @@
+
 [Conor Knight]
 Title: Catch the Beat 
 ...
 Elavator Pitch: 
+=======
+Title
+[BC]Great Catch Mate
+Elavator Pitch
 ...
 30 second  gameplay description
 ...
