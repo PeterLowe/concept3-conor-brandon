@@ -11,4 +11,5 @@ Pillars
 [Ck]Catching fruits, to the beat, fruits change differently depending on which song you are playing and which difficulty on the song 
 Catching fruits, obstacles that change how fruits fall
 Features
+[Ck]Different themes and types of music, hold left shift to increase movement speed from left to right, satisfying visuals when catching fruit, and accuracy system in the top right 
 Jumpy music, satifying sound effects, good visuals
